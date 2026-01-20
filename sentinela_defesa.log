@@ -1,0 +1,138 @@
+2026-01-08 15:15:07,943 - INFO - Sentinela Avancado inicializado. Monitoramento ativo.
+2026-01-08 15:15:07,944 - INFO - 
+--- 🟢 MONITORAMENTO ATIVADO (Sua defesa está online) ---
+
+2026-01-08 15:15:07,944 - INFO - 👤 Usuário Humano tentando logar pelo IP 192.168.0.1...
+2026-01-08 15:15:07,944 - INFO - ✅ Acesso permitido para Aluno_PUC via 192.168.0.1
+2026-01-08 15:15:08,945 - INFO - ✅ Acesso permitido para Aluno_PUC via 192.168.0.1
+2026-01-08 15:15:09,946 - INFO - ✅ Acesso permitido para Aluno_PUC via 192.168.0.1
+2026-01-08 15:15:10,950 - INFO - 
+--- ⚠️ INÍCIO DO ATAQUE DE ENXAME (IA MALICIOSA) ---
+
+2026-01-08 15:15:10,951 - INFO - 🤖 Bot de IA iniciando força bruta com IPs rotativos...
+2026-01-08 15:15:10,955 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.0
+2026-01-08 15:15:10,961 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.1
+2026-01-08 15:15:10,962 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.2
+2026-01-08 15:15:10,962 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.3
+2026-01-08 15:15:10,971 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.4
+2026-01-08 15:15:10,971 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (6 em 1s).
+2026-01-08 15:15:10,971 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.5 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 15:15:10,971 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (7 em 1s).
+2026-01-08 15:15:10,972 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.6 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 15:15:10,972 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (8 em 1s).
+2026-01-08 15:15:10,972 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.7 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 15:15:10,972 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (9 em 1s).
+2026-01-08 15:15:10,973 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.8 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 15:15:10,973 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (10 em 1s).
+2026-01-08 15:15:10,973 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.9 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 15:15:10,973 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (11 em 1s).
+2026-01-08 15:15:10,973 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.10 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 15:15:10,973 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (12 em 1s).
+2026-01-08 15:15:10,973 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.11 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 15:15:10,981 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (13 em 1s).
+2026-01-08 15:15:10,981 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.12 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 15:15:10,981 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (14 em 1s).
+2026-01-08 15:15:10,982 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.13 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 15:15:10,982 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (15 em 1s).
+2026-01-08 15:15:10,982 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.14 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 15:15:10,982 - INFO - 
+--- 🛑 RELATÓRIO FINAL ---
+2026-01-08 15:15:10,982 - INFO - Total de IPs Banidos: 10
+2026-01-08 15:15:10,982 - INFO - 
+--- Tentativa de acesso de IP já bloqueado ---
+2026-01-08 15:15:10,982 - WARNING - 🚫 [BLOQUEADO] IP 200.1.1.5 já está na lista negra. Tentativa de acesso para Admin_Hacker recusada.
+2026-01-08 15:15:10,983 - INFO - 
+--- Tentativa de acesso com entrada inválida ---
+2026-01-08 15:15:10,983 - ERROR - Erro ao registrar acesso: IP e Usuário devem ser strings.. IP: 123, Usuário: usuario_teste
+2026-01-08 17:11:16,989 - INFO - Sentinela Avancado inicializado. Monitoramento ativo.
+2026-01-08 17:11:16,990 - INFO - 
+--- 🟢 MONITORAMENTO ATIVADO (Sua defesa está online) ---
+
+2026-01-08 17:11:16,991 - INFO - 👤 Usuário Humano tentando logar pelo IP 192.168.0.1...
+2026-01-08 17:11:16,991 - INFO - ✅ Acesso permitido para Aluno_PUC via 192.168.0.1
+2026-01-08 17:11:17,991 - INFO - ✅ Acesso permitido para Aluno_PUC via 192.168.0.1
+2026-01-08 17:11:18,992 - INFO - ✅ Acesso permitido para Aluno_PUC via 192.168.0.1
+2026-01-08 17:11:19,992 - INFO - 
+--- ⚠️ INÍCIO DO ATAQUE DE ENXAME (IA MALICIOSA) ---
+
+2026-01-08 17:11:19,993 - INFO - 🤖 Bot de IA iniciando força bruta com IPs rotativos...
+2026-01-08 17:11:19,993 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.0
+2026-01-08 17:11:19,993 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.1
+2026-01-08 17:11:19,993 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.2
+2026-01-08 17:11:19,993 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.3
+2026-01-08 17:11:19,993 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.4
+2026-01-08 17:11:19,994 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (6 em 1s).
+2026-01-08 17:11:19,994 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.5 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 17:11:19,994 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (7 em 1s).
+2026-01-08 17:11:19,994 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.6 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 17:11:19,994 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (8 em 1s).
+2026-01-08 17:11:19,994 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.7 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 17:11:19,994 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (9 em 1s).
+2026-01-08 17:11:19,994 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.8 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 17:11:19,994 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (10 em 1s).
+2026-01-08 17:11:19,994 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.9 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 17:11:19,995 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (11 em 1s).
+2026-01-08 17:11:19,995 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.10 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 17:11:19,995 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (12 em 1s).
+2026-01-08 17:11:19,995 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.11 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 17:11:19,995 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (13 em 1s).
+2026-01-08 17:11:19,995 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.12 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 17:11:19,995 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (14 em 1s).
+2026-01-08 17:11:19,995 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.13 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 17:11:19,995 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (15 em 1s).
+2026-01-08 17:11:19,996 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.14 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-08 17:11:19,996 - INFO - 
+--- 🛑 RELATÓRIO FINAL ---
+2026-01-08 17:11:19,996 - INFO - Total de IPs Banidos: 10
+2026-01-08 17:11:19,996 - INFO - 
+--- Tentativa de acesso de IP já bloqueado ---
+2026-01-08 17:11:19,996 - WARNING - 🚫 [BLOQUEADO] IP 200.1.1.5 já está na lista negra. Tentativa de acesso para Admin_Hacker recusada.
+2026-01-08 17:11:19,996 - INFO - 
+--- Tentativa de acesso com entrada inválida ---
+2026-01-08 17:11:19,996 - ERROR - Erro ao registrar acesso: IP e Usuário devem ser strings.. IP: 123, Usuário: usuario_teste
+2026-01-20 15:04:42,705 - INFO - Sentinela Avancado inicializado. Monitoramento ativo.
+2026-01-20 15:04:42,706 - INFO - 
+--- 🟢 MONITORAMENTO ATIVADO (Sua defesa está online) ---
+
+2026-01-20 15:04:42,706 - INFO - 👤 Usuário Humano tentando logar pelo IP 192.168.0.1...
+2026-01-20 15:04:42,708 - INFO - ✅ Acesso permitido para Aluno_PUC via 192.168.0.1
+2026-01-20 15:04:43,709 - INFO - ✅ Acesso permitido para Aluno_PUC via 192.168.0.1
+2026-01-20 15:04:44,713 - INFO - ✅ Acesso permitido para Aluno_PUC via 192.168.0.1
+2026-01-20 15:04:45,713 - INFO - 
+--- ⚠️ INÍCIO DO ATAQUE DE ENXAME (IA MALICIOSA) ---
+
+2026-01-20 15:04:45,716 - INFO - 🤖 Bot de IA iniciando força bruta com IPs rotativos...
+2026-01-20 15:04:45,718 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.0
+2026-01-20 15:04:45,719 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.1
+2026-01-20 15:04:45,719 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.2
+2026-01-20 15:04:45,720 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.3
+2026-01-20 15:04:45,720 - INFO - ✅ Acesso permitido para Admin_Hacker via 200.1.1.4
+2026-01-20 15:04:45,720 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (6 em 1s).
+2026-01-20 15:04:45,720 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.5 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-20 15:04:45,725 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (7 em 1s).
+2026-01-20 15:04:45,726 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.6 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-20 15:04:45,726 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (8 em 1s).
+2026-01-20 15:04:45,730 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.7 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-20 15:04:45,731 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (9 em 1s).
+2026-01-20 15:04:45,732 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.8 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-20 15:04:45,732 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (10 em 1s).
+2026-01-20 15:04:45,732 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.9 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-20 15:04:45,732 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (11 em 1s).
+2026-01-20 15:04:45,732 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.10 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-20 15:04:45,736 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (12 em 1s).
+2026-01-20 15:04:45,736 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.11 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-20 15:04:45,736 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (13 em 1s).
+2026-01-20 15:04:45,736 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.12 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-20 15:04:45,736 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (14 em 1s).
+2026-01-20 15:04:45,737 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.13 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-20 15:04:45,737 - WARNING -    ⚠️ ALERTA: A conta 'Admin_Hacker' está sob ataque massivo! (15 em 1s).
+2026-01-20 15:04:45,737 - ERROR - 🚨 [DETECÇÃO DE ENXAME] Bloqueando IP 200.1.1.14 por ataque coordenado! Usuário: Admin_Hacker
+2026-01-20 15:04:45,737 - INFO - 
+--- 🛑 RELATÓRIO FINAL ---
+2026-01-20 15:04:45,737 - INFO - Total de IPs Banidos: 10
+2026-01-20 15:04:45,737 - INFO - 
+--- Tentativa de acesso de IP já bloqueado ---
+2026-01-20 15:04:45,737 - WARNING - 🚫 [BLOQUEADO] IP 200.1.1.5 já está na lista negra. Tentativa de acesso para Admin_Hacker recusada.
+2026-01-20 15:04:45,738 - INFO - 
+--- Tentativa de acesso com entrada inválida ---
+2026-01-20 15:04:45,738 - ERROR - Erro ao registrar acesso: IP e Usuário devem ser strings.. IP: 123, Usuário: usuario_teste
